@@ -6,7 +6,7 @@ screens.
 
 ![native SwiftUI, free](https://img.shields.io/badge/macOS-SwiftUI-blue)
 
-![Disk Space Manager screenshot](docs/screenshot.jpg)
+![Disk Space Manager screenshot](docs/screenshot.png)
 
 ## Download
 
