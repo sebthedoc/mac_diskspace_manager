@@ -8,6 +8,22 @@ screens.
 
 ![Disk Space Manager screenshot](docs/screenshot.jpg)
 
+## Download
+
+Grab the latest prebuilt app from the
+[**Releases**](https://github.com/sebthedoc/mac_diskspace_manager/releases/latest)
+page (Apple Silicon, macOS 13+). Unzip it and drag **Disk Space Manager.app**
+to `/Applications`.
+
+The build is ad-hoc signed (not notarized), so the first launch is blocked by
+Gatekeeper. To open it, **right-click the app → Open → Open**, or run:
+
+```bash
+xattr -dr com.apple.quarantine "/Applications/Disk Space Manager.app"
+```
+
+On an Intel Mac, build from source instead (see below).
+
 ## Features
 
 - **Live scanning** — the list appears the instant scanning starts; folders pop
