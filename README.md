@@ -1,8 +1,8 @@
 # Disk Space Manager
 
-A free, native macOS disk space analyzer — a no-cost alternative to apps like
-Disk Space Analyzer / DaisyDisk. Scan a folder, browse it sorted by size, and
-move space hogs to the Trash. No license, no telemetry, no nag screens.
+A free, native macOS disk space analyzer. Scan a folder, browse it sorted by
+size, and move space hogs to the Trash. No license, no telemetry, no nag
+screens.
 
 ![native SwiftUI, free](https://img.shields.io/badge/macOS-SwiftUI-blue)
 
