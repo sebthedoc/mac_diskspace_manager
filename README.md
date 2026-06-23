@@ -6,6 +6,8 @@ screens.
 
 ![native SwiftUI, free](https://img.shields.io/badge/macOS-SwiftUI-blue)
 
+![Disk Space Manager screenshot](docs/screenshot.jpg)
+
 ## Features
 
 - **Live scanning** — the list appears the instant scanning starts; folders pop
